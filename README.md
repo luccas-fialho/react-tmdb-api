@@ -22,19 +22,19 @@ This is a project that uses [TMDB (The Movie Database)](https://www.themoviedb.o
 1. **Clone the repository**
 
 ```bash
- git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/seu-usuario/nome-do-repo.git
 ```
 
 2. **Go to the project's folder**
 
 ```bash
- cd nome-do-repo
+cd nome-do-repo
 ```
 
 3. **Install dependencies**
 
 ```bash
-  npm i
+npm i
 ```
 
 4. **Configure the env variables**
